@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IP修改小助手/1.0.0": {
+        "runtime": {
+          "IP修改小助手.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IP修改小助手/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
